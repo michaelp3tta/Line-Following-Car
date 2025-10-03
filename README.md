@@ -1,6 +1,3 @@
-# Line-Following-Car
-Car that Follows a Line
-
 
 <h1>Line Following Car</h1>
 
